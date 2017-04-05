@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <project>
-  <configuration createBackupFiles="False" hideEmptyRows="False" hideTranslatedRows="False" useSpellChecker="True" neutralLanguageCode="en-us" languagesToDisplay="">
+  <configuration createBackupFiles="False" hideEmptyRows="False" hideTranslatedRows="False" useSpellChecker="True" resXIndentChar="	" neutralLanguageCode="en-us" languagesToDisplay="">
     <globalSetting name="projectMruItems">&lt;?xml version='1.0' encoding='utf-8'?&gt;&lt;items&gt;&lt;item type="2" checksum="1403806966" /&gt;&lt;item type="2" checksum="2984873266" /&gt;&lt;item type="2" checksum="3191052202" /&gt;&lt;item type="2" checksum="3593582194" /&gt;&lt;/items&gt;</globalSetting>
     <globalSetting name="Filter-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
   &lt;property name="#LayoutVersion" /&gt;
@@ -8,7 +8,7 @@
 &lt;/XtraSerializer&gt;</globalSetting>
     <globalSetting name="Sort-ResourceEditorGrid">&lt;XtraSerializer version="1.0" application="View"&gt;
   &lt;property name="#LayoutVersion" /&gt;
-  &lt;property name="SortInfo"&gt;~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMS4xLCBWZXJzaW9uPTExLjEuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjExLjEsIFZlcnNpb249MTEuMS44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjExLjEsIFZlcnNpb249MTEuMS44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAAAAAAAAAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAABAAAAAcFAAAAAAEAAAAAAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAABAGAAAABAAAAAkHAAAADQMMCAAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxMS4xBQcAAAAuRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mbwIAAAAJU29ydE9yZGVyCkNvbHVtbk5hbWUAAQgIAAAAAQAAAAYJAAAAB2NvbE5hbWUL&lt;/property&gt;
+  &lt;property name="SortInfo"&gt;~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxNi4yLCBWZXJzaW9uPTE2LjIuNi4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjE2LjIsIFZlcnNpb249MTYuMi42LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjE2LjIsIFZlcnNpb249MTYuMi42LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAAAAAAAAAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAABAAAAAcFAAAAAAEAAAAAAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAABAGAAAABAAAAAkHAAAADQMMCAAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxNi4yBQcAAAAuRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mbwIAAAAJU29ydE9yZGVyCkNvbHVtbk5hbWUAAQgIAAAAAQAAAAYJAAAAB2NvbE5hbWUL&lt;/property&gt;
 &lt;/XtraSerializer&gt;</globalSetting>
     <globalSetting name="ReadOnlyFileOverwriteBehaviour">0</globalSetting>
     <globalSetting name="OmitEmptyItems">True</globalSetting>
@@ -27,38 +27,39 @@
     <globalSetting name="CreateNewFileForm.prefixTextBox.Text">####</globalSetting>
     <globalSetting name="CreateNewFileForm.prefixCheckBox.Checked">False</globalSetting>
     <globalSetting name="CreateNewFileForm.referenceLanguageComboBox.SelectedIndex">0</globalSetting>
-    <globalSetting name="CreateNewFileForm.newLanguageComboBox.SelectedIndex">112</globalSetting>
-    <globalSetting name="CreateNewFileForm.copyTextsCheckBox.Checked">False</globalSetting>
+    <globalSetting name="CreateNewFileForm.newLanguageComboBox.SelectedIndex">281</globalSetting>
+    <globalSetting name="CreateNewFileForm.copyTextsCheckBox.Checked">True</globalSetting>
     <globalSetting name="CreateNewFileForm.automaticallyTranslateCheckBox.Checked">False</globalSetting>
     <description>
     </description>
   </configuration>
   <fileGroups>
     <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="13" ignoreDuringExportAndImport="False" uniqueID="d90a8180-b0b6-4fe9-bf77-b90cfe012700">
-      <file filePath="Localization\AboutStrings.resx" />
-      <file filePath="Localization\AboutStrings.de.resx" />
-      <file filePath="Localization\AboutStrings.fr.resx" />
+      <file filePath="Localization\AboutStrings.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\AboutStrings.resx" uniqueID="9bdc07b9-37a9-423e-a424-78f988aefcd9" />
+      <file filePath="Localization\AboutStrings.de.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\AboutStrings.de.resx" uniqueID="402a5cb1-73e5-4bf4-920b-439d87ba02e8" />
+      <file filePath="Localization\AboutStrings.fr.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\AboutStrings.fr.resx" uniqueID="141e2086-10d1-402f-a4ed-c2e99a084db2" />
       <remarks>
       </remarks>
     </fileGroup>
     <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="15" ignoreDuringExportAndImport="False" uniqueID="55ead1d4-e9b8-4459-b234-b86cc5854a58">
-      <file filePath="Localization\SettingsStrings.resx" />
-      <file filePath="Localization\SettingsStrings.de.resx" />
-      <file filePath="Localization\SettingsStrings.fr.resx" />
+      <file filePath="Localization\SettingsStrings.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\SettingsStrings.resx" uniqueID="b586c4b2-b5e3-447b-a58c-18e50b300edf" />
+      <file filePath="Localization\SettingsStrings.de.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\SettingsStrings.de.resx" uniqueID="ada569a5-305d-42c2-880b-ce7c5c126942" />
+      <file filePath="Localization\SettingsStrings.es.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\SettingsStrings.es.resx" uniqueID="00000000-0000-0000-0000-000000000000" />
+      <file filePath="Localization\SettingsStrings.fr.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\SettingsStrings.fr.resx" uniqueID="7c3f0662-6f86-480b-abc7-a89bd96c1334" />
       <remarks>
       </remarks>
     </fileGroup>
     <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="16" ignoreDuringExportAndImport="False" uniqueID="3ced32d7-4350-4580-ade4-974d79a11c34">
-      <file filePath="Localization\TrayIconStrings.resx" />
-      <file filePath="Localization\TrayIconStrings.de.resx" />
-      <file filePath="Localization\TrayIconStrings.fr.resx" />
+      <file filePath="Localization\TrayIconStrings.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\TrayIconStrings.resx" uniqueID="fc5e8d8e-7c59-45ac-8d95-d3989e10d41f" />
+      <file filePath="Localization\TrayIconStrings.de.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\TrayIconStrings.de.resx" uniqueID="41b089ca-d439-489a-b4b5-8927053f5df5" />
+      <file filePath="Localization\TrayIconStrings.fr.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\TrayIconStrings.fr.resx" uniqueID="ffe92dc1-03ad-475a-b1a1-fa6a159baf01" />
       <remarks>
       </remarks>
     </fileGroup>
     <fileGroup name="" projectFolderUniqueID="00000000-0000-0000-0000-000000000000" orderPosition="17" ignoreDuringExportAndImport="False" uniqueID="2e3b36f8-c04b-4774-9e23-e0dd3cc91381">
-      <file filePath="Localization\UpdateDownloadStrings.resx" />
-      <file filePath="Localization\UpdateDownloadStrings.de.resx" />
-      <file filePath="Localization\UpdateDownloadStrings.fr.resx" />
+      <file filePath="Localization\UpdateDownloadStrings.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\UpdateDownloadStrings.resx" uniqueID="3e9c3746-a467-44ac-94e6-7e2f850ef94b" />
+      <file filePath="Localization\UpdateDownloadStrings.de.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\UpdateDownloadStrings.de.resx" uniqueID="f78cc3ec-91fe-49c0-9a8a-fab17345c0e4" />
+      <file filePath="Localization\UpdateDownloadStrings.fr.resx" absoluteFilePath="C:\Users\Misael\Downloads\SoundSwitch-dev\SoundSwitch-dev\SoundSwitch\Localization\UpdateDownloadStrings.fr.resx" uniqueID="cc1c84e3-04e6-472a-9d06-b2f3fd119c19" />
       <remarks>
       </remarks>
     </fileGroup>
